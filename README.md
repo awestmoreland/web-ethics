@@ -4,9 +4,9 @@ I recently came across the ethics statement on the <a href="http://stuffandnonse
 
 It's not always easy to turn down a paying job - especially if you're not your own boss or you're strapped for cash - but nobody said being ethical was easy.
 
-**I'm interested in creating a code of ethics for the web industry and encourage others to collaborate in the writing and adoption of the code.**
+I'm interested in creating a code of ethics template for the web industry. While some tenets of the code will be universal, it's unreasonable to expect a one-size-fits-all solution exists, and I encourage others to collaborate in the writing and adoption of the code.
 
-Below are four categories I believe any ethics statement should address. I wasn't able to find many existing ethics statements specific to the web industry, but the ones I did fell mainly into the first two categories:</p>
+Below are four categories I believe any ethics statement should address. I wasn't able to find many existing ethics statements specific to the web industry, but the ones I did fell mainly into the first two categories:
 
 - **The Developer's pledge to self**  
     the types of work and clients that the developer will / won't accept business from,  
@@ -20,6 +20,8 @@ Below are four categories I believe any ethics statement should address. I wasn'
 - **The Developer's pledge to equality**  
     the developer's responsibility to society,  
     e.g. refusal to accept work which seeks to impugn, undermine, curtail human rights or fundamental freedoms, or discriminate against any member or group of society based on race, color, sex, marital status, religion, creed, national origin, disability, age, military or veteran status, sexual orientation, gender identity and expression
+
+*The term "Developer" should be more generic to refer to anyone in the web industry. I'm open to suggestions.*
 
 <hr>
 
