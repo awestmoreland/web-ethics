@@ -4,7 +4,7 @@ I recently came across the ethics statement on the <a href="http://stuffandnonse
 
 It's not always easy to turn down a paying job - especially if you're not your own boss or you're strapped for cash - but nobody said being ethical was easy.
 
-I'm interested in creating a code of ethics template for the web industry. While some tenets of the code will be universal, it's unreasonable to expect a one-size-fits-all solution exists, and I encourage others to collaborate in the writing and adoption of the code.
+I'm interested in creating a code of ethics template for the web industry. While some tenets of the code will be universal, it's unreasonable to expect a one-size-fits-all solution exists, and <a href="https://github.com/awestmoreland/web-ethics/tree/master/statement">I encourage others to collaborate in the writing and adoption of the code</a>.
 
 Below are four categories I believe any ethics statement should address. I wasn't able to find many existing ethics statements specific to the web industry, but the ones I did fell mainly into the first two categories:
 
