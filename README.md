@@ -1,8 +1,10 @@
-# Ethics Statements in Web Development
+# An Ethics Statement for Web Professionals
 
 I recently came across the ethics statement on the <a href="http://stuffandnonsense.co.uk/ethics">Stuff &amp; Nonsense</a> site and I was immediately a fan. It's short, to the point, and lays out their position on what work they will and won't accept, and the reason why.
 
-It's not always easy to turn down a paying job - especially if you're not your own boss or you're strapped for cash - but nobody said being ethical was easy. I'm interested in creating a code of ethics for the web industry and encourage others to collaborate in the writing and adoption of the code.
+It's not always easy to turn down a paying job - especially if you're not your own boss or you're strapped for cash - but nobody said being ethical was easy.
+
+**I'm interested in creating a code of ethics for the web industry and encourage others to collaborate in the writing and adoption of the code.**
 
 Below are four categories I believe any ethics statement should address. I wasn't able to find many existing ethics statements specific to the web industry, but the ones I did fell mainly into the first two categories:</p>
 
